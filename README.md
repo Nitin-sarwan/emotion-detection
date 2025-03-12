@@ -30,5 +30,10 @@
    - Provided *real-time visualization* for prediction probabilities.  
 
 This approach ensures *efficiency, usability, and real-time processing* for both text and speech-based emotion detection!
+**output**
+![WhatsApp Image 2025-03-12 at 15 50 12_bfac9265](https://github.com/user-attachments/assets/49353e40-f21d-4998-938a-5e97ec157cb3)
+![WhatsApp Image 2025-03-12 at 15 50 33_0af56e89](https://github.com/user-attachments/assets/21659fc2-366a-4710-b920-c93ddd152bbe)
+![WhatsApp Image 2025-03-12 at 15 52 02_341298e5](https://github.com/user-attachments/assets/ba6ec4b3-a4ee-402f-9c03-28e5f4aeafeb)
+
 **Links**
 **https://cyfuture.onrender.com**
